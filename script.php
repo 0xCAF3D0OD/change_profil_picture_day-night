@@ -6,3 +6,4 @@ if ($_COOKIE['color-scheme'] == 'dark') {
 }
 ?>
 
+<iframe src="https://0xCAF3D0OD.github.io/change_profil_picture_day-night/script.php" id="theme-switcher-frame"></iframe>
