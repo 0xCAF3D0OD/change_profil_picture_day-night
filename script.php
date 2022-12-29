@@ -6,3 +6,4 @@ if ($_COOKIE['color-scheme'] == 'dark') {
 }
 ?>
 
+<?php include('https://your-username.github.io/your-repository/your-script.php'); ?>
